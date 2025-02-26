@@ -9,7 +9,7 @@
     # Dagger
     # Axe
     # Mace
-    # Staff
+    # Staff 長杖
     # Shield
     # Wand
     # Club
@@ -21,14 +21,13 @@
     # Boots
 
 # Accessory Type
-    # Amulet
-    # Ring
-    # Belt
+    # Amulet 護身符
+    # Ring 戒指
+    # Belt 腰帶
 
 # Gems
     # Skill Gem
     # Support Gem
-
 
 Show
     Class "Amulet" "Ring" "Belt"
