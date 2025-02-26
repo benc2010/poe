@@ -1,0 +1,37 @@
+# *** Case sensitivity **
+
+# Rarity: Normal, Magic, Rare, Unique
+
+# Wepon Types
+    # One Hand
+    # Two Hand
+    # Bow
+    # Dagger
+    # Axe
+    # Mace
+    # Staff
+    # Shield
+    # Wand
+    # Club
+
+# Armour Types
+    # Helmet
+    # Body Armour
+    # Gloves
+    # Boots
+
+# Accessory Type
+    # Amulet
+    # Ring
+    # Belt
+
+# Gems
+    # Skill Gem
+    # Support Gem
+
+
+Show
+    Class "Amulet" "Ring" "Belt"
+
+Hide
+    Class "One Hand" "Two Hand" "Bow" "Dagger" "Axe" "Mace" "Staff" "Shield" "Body Armour" "Helmet" "Gloves" "Boots" Rarity <= Magic
